@@ -3,7 +3,7 @@ import { db } from '@vercel/postgres';
 
 const client = await db.connect();
 
-export async function seed() {
+export async function load() {
   const createTable = await client.sql`
     CREATE TABLE IF NOT EXISTS ballotids (
       id SERIAL PRIMARY KEY,
@@ -64,7 +64,7 @@ export async function drop() {
 export async function GET() {
   try {
     await client.sql`BEGIN`;
-    await seed();
+    await load();
     await client.sql`COMMIT`;
     return Response.json({ message: 'Database seeded successfully' });
   } catch (error) {
