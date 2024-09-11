@@ -4,7 +4,7 @@ import { db } from '@vercel/postgres';
 const client = await db.connect();
 
 export async function load() {
-  const createTable = await client.sql`
+  await client.sql`
     CREATE TABLE IF NOT EXISTS ballotids (
       id SERIAL PRIMARY KEY,
       precinct VARCHAR(255) NOT NULL,
@@ -30,35 +30,27 @@ export async function load() {
 
   console.log(`Seeded ${insertedBallotIds.length} ballotids`)
 
-  return {
-    createTable,
-    insertedBallotIds
-  }
+  return insertedBallotIds
+
 }
 
   
 export async function clear() {
-  const clearTable = await client.sql`
+  await client.sql`
     DELETE FROM ballotids
     `
 
   console.log(`Deleting "ballotids" records`)
 
-  return {
-    clearTable
-  }
 }
 
 export async function drop() {
-  const dropTable = await client.sql`
+  await client.sql`
     DROP TABLE ballotids CASCADE
     `
 
   console.log(`Dropping "ballotids" table`)
 
-  return {
-    dropTable
-  }
 }
 
 export async function GET() {
