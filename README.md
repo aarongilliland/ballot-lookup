@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+## Sample Ballot Lookup App
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This application queries data for Sarpy County Household Addresses to determine the correct ballot and present that to the user.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+For information regarding endorsements, candidates, and how you can get involved see the [Sarpy County GOP](https://sarpygop.com/) Website.
