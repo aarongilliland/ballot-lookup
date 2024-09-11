@@ -1,0 +1,1092 @@
+[
+    {
+        "precinct": "1",
+        "precinct_split": "1.01",
+        "ballot_id": "1.01"
+    },
+    {
+        "precinct": "9",
+        "precinct_split": "9.01",
+        "ballot_id": "9.01"
+    },
+    {
+        "precinct": "67",
+        "precinct_split": "67.02",
+        "ballot_id": "67.01"
+    },
+    {
+        "precinct": "67",
+        "precinct_split": "67.01",
+        "ballot_id": "67.01"
+    },
+    {
+        "precinct": "12",
+        "precinct_split": "12.01",
+        "ballot_id": "12.01"
+    },
+    {
+        "precinct": "66",
+        "precinct_split": "66.04",
+        "ballot_id": "66.02"
+    },
+    {
+        "precinct": "66",
+        "precinct_split": "66.01",
+        "ballot_id": "66.01"
+    },
+    {
+        "precinct": "66",
+        "precinct_split": "66.02",
+        "ballot_id": "66.02"
+    },
+    {
+        "precinct": "66",
+        "precinct_split": "66.03",
+        "ballot_id": "66.01"
+    },
+    {
+        "precinct": "2",
+        "precinct_split": "2.01",
+        "ballot_id": "2.01"
+    },
+    {
+        "precinct": "2",
+        "precinct_split": "2.04",
+        "ballot_id": "2.03"
+    },
+    {
+        "precinct": "2",
+        "precinct_split": "2.02",
+        "ballot_id": "2.02"
+    },
+    {
+        "precinct": "2",
+        "precinct_split": "2.03",
+        "ballot_id": "2.03"
+    },
+    {
+        "precinct": "18",
+        "precinct_split": "18.01",
+        "ballot_id": "18.01"
+    },
+    {
+        "precinct": "18",
+        "precinct_split": "18.02",
+        "ballot_id": "18.02"
+    },
+    {
+        "precinct": "20",
+        "precinct_split": "20.01",
+        "ballot_id": "20.01"
+    },
+    {
+        "precinct": "20",
+        "precinct_split": "20.02",
+        "ballot_id": "20.01"
+    },
+    {
+        "precinct": "16",
+        "precinct_split": "16.01",
+        "ballot_id": "16.01"
+    },
+    {
+        "precinct": "22",
+        "precinct_split": "22.03",
+        "ballot_id": "22.03"
+    },
+    {
+        "precinct": "22",
+        "precinct_split": "22.01",
+        "ballot_id": "22.01"
+    },
+    {
+        "precinct": "22",
+        "precinct_split": "22.02",
+        "ballot_id": "22.01"
+    },
+    {
+        "precinct": "22",
+        "precinct_split": "22.04",
+        "ballot_id": "22.01"
+    },
+    {
+        "precinct": "8",
+        "precinct_split": "8.01",
+        "ballot_id": "8.01"
+    },
+    {
+        "precinct": "24",
+        "precinct_split": "24.01",
+        "ballot_id": "24.01"
+    },
+    {
+        "precinct": "24",
+        "precinct_split": "24.03",
+        "ballot_id": "24.03"
+    },
+    {
+        "precinct": "23",
+        "precinct_split": "23.02",
+        "ballot_id": "23.02"
+    },
+    {
+        "precinct": "23",
+        "precinct_split": "23.01",
+        "ballot_id": "23.01"
+    },
+    {
+        "precinct": "23",
+        "precinct_split": "23.04",
+        "ballot_id": "23.04"
+    },
+    {
+        "precinct": "23",
+        "precinct_split": "23.03",
+        "ballot_id": "23.03"
+    },
+    {
+        "precinct": "45",
+        "precinct_split": "45.01",
+        "ballot_id": "45.01"
+    },
+    {
+        "precinct": "45",
+        "precinct_split": "45.02",
+        "ballot_id": "45.01"
+    },
+    {
+        "precinct": "45",
+        "precinct_split": "45.03",
+        "ballot_id": "45.01"
+    },
+    {
+        "precinct": "64",
+        "precinct_split": "64.05",
+        "ballot_id": "64.02"
+    },
+    {
+        "precinct": "64",
+        "precinct_split": "64.01",
+        "ballot_id": "64.01"
+    },
+    {
+        "precinct": "64",
+        "precinct_split": "64.02",
+        "ballot_id": "64.02"
+    },
+    {
+        "precinct": "64",
+        "precinct_split": "64.03",
+        "ballot_id": "64.03"
+    },
+    {
+        "precinct": "64",
+        "precinct_split": "64.04",
+        "ballot_id": "64.04"
+    },
+    {
+        "precinct": "27",
+        "precinct_split": "27.01",
+        "ballot_id": "27.01"
+    },
+    {
+        "precinct": "27",
+        "precinct_split": "27.02",
+        "ballot_id": "27.02"
+    },
+    {
+        "precinct": "28",
+        "precinct_split": "28.01",
+        "ballot_id": "28.01"
+    },
+    {
+        "precinct": "26",
+        "precinct_split": "26.07",
+        "ballot_id": "26.07"
+    },
+    {
+        "precinct": "26",
+        "precinct_split": "26.01",
+        "ballot_id": "26.01"
+    },
+    {
+        "precinct": "26",
+        "precinct_split": "26.02",
+        "ballot_id": "26.01"
+    },
+    {
+        "precinct": "26",
+        "precinct_split": "26.04",
+        "ballot_id": "26.04"
+    },
+    {
+        "precinct": "26",
+        "precinct_split": "26.05",
+        "ballot_id": "26.05"
+    },
+    {
+        "precinct": "26",
+        "precinct_split": "26.06",
+        "ballot_id": "26.06"
+    },
+    {
+        "precinct": "25",
+        "precinct_split": "25.01",
+        "ballot_id": "25.01"
+    },
+    {
+        "precinct": "25",
+        "precinct_split": "25.02",
+        "ballot_id": "25.02"
+    },
+    {
+        "precinct": "65",
+        "precinct_split": "65.01",
+        "ballot_id": "65.01"
+    },
+    {
+        "precinct": "65",
+        "precinct_split": "65.02",
+        "ballot_id": "65.01"
+    },
+    {
+        "precinct": "65",
+        "precinct_split": "65.03",
+        "ballot_id": "65.03"
+    },
+    {
+        "precinct": "4",
+        "precinct_split": "4.01",
+        "ballot_id": "4.01"
+    },
+    {
+        "precinct": "4",
+        "precinct_split": "4.02",
+        "ballot_id": "4.02"
+    },
+    {
+        "precinct": "35",
+        "precinct_split": "35.01",
+        "ballot_id": "35.01"
+    },
+    {
+        "precinct": "35",
+        "precinct_split": "35.02",
+        "ballot_id": "35.01"
+    },
+    {
+        "precinct": "34",
+        "precinct_split": "34.02",
+        "ballot_id": "34.01"
+    },
+    {
+        "precinct": "34",
+        "precinct_split": "34.01",
+        "ballot_id": "34.01"
+    },
+    {
+        "precinct": "29",
+        "precinct_split": "29.03",
+        "ballot_id": "29.01"
+    },
+    {
+        "precinct": "29",
+        "precinct_split": "29.01",
+        "ballot_id": "29.01"
+    },
+    {
+        "precinct": "29",
+        "precinct_split": "29.02",
+        "ballot_id": "29.01"
+    },
+    {
+        "precinct": "40",
+        "precinct_split": "40.02",
+        "ballot_id": "40.01"
+    },
+    {
+        "precinct": "40",
+        "precinct_split": "40.01",
+        "ballot_id": "40.01"
+    },
+    {
+        "precinct": "37",
+        "precinct_split": "37.01",
+        "ballot_id": "37.01"
+    },
+    {
+        "precinct": "39",
+        "precinct_split": "39.01",
+        "ballot_id": "39.01"
+    },
+    {
+        "precinct": "39",
+        "precinct_split": "39.02",
+        "ballot_id": "39.01"
+    },
+    {
+        "precinct": "39",
+        "precinct_split": "39.03",
+        "ballot_id": "39.01"
+    },
+    {
+        "precinct": "44",
+        "precinct_split": "44.01",
+        "ballot_id": "44.01"
+    },
+    {
+        "precinct": "44",
+        "precinct_split": "44.02",
+        "ballot_id": "44.01"
+    },
+    {
+        "precinct": "44",
+        "precinct_split": "44.03",
+        "ballot_id": "44.01"
+    },
+    {
+        "precinct": "3",
+        "precinct_split": "3.01",
+        "ballot_id": "3.01"
+    },
+    {
+        "precinct": "3",
+        "precinct_split": "3.02",
+        "ballot_id": "3.02"
+    },
+    {
+        "precinct": "42",
+        "precinct_split": "42.01",
+        "ballot_id": "42.01"
+    },
+    {
+        "precinct": "42",
+        "precinct_split": "42.02",
+        "ballot_id": "42.01"
+    },
+    {
+        "precinct": "42",
+        "precinct_split": "42.04",
+        "ballot_id": "42.01"
+    },
+    {
+        "precinct": "21",
+        "precinct_split": "21.02",
+        "ballot_id": "21.02"
+    },
+    {
+        "precinct": "46",
+        "precinct_split": "46.01",
+        "ballot_id": "46.01"
+    },
+    {
+        "precinct": "46",
+        "precinct_split": "46.02",
+        "ballot_id": "46.02"
+    },
+    {
+        "precinct": "46",
+        "precinct_split": "46.03",
+        "ballot_id": "46.02"
+    },
+    {
+        "precinct": "41",
+        "precinct_split": "41.01",
+        "ballot_id": "41.01"
+    },
+    {
+        "precinct": "41",
+        "precinct_split": "41.02",
+        "ballot_id": "41.01"
+    },
+    {
+        "precinct": "38",
+        "precinct_split": "38.01",
+        "ballot_id": "38.01"
+    },
+    {
+        "precinct": "38",
+        "precinct_split": "38.02",
+        "ballot_id": "38.01"
+    },
+    {
+        "precinct": "72",
+        "precinct_split": "72.01",
+        "ballot_id": "72.01"
+    },
+    {
+        "precinct": "69",
+        "precinct_split": "69.01",
+        "ballot_id": "69.01"
+    },
+    {
+        "precinct": "69",
+        "precinct_split": "69.02",
+        "ballot_id": "69.02"
+    },
+    {
+        "precinct": "69",
+        "precinct_split": "69.03",
+        "ballot_id": "69.03"
+    },
+    {
+        "precinct": "69",
+        "precinct_split": "69.04",
+        "ballot_id": "69.03"
+    },
+    {
+        "precinct": "5",
+        "precinct_split": "5.01",
+        "ballot_id": "5.01"
+    },
+    {
+        "precinct": "79",
+        "precinct_split": "79.01",
+        "ballot_id": "79.01"
+    },
+    {
+        "precinct": "79",
+        "precinct_split": "79.02",
+        "ballot_id": "79.02"
+    },
+    {
+        "precinct": "79",
+        "precinct_split": "79.03",
+        "ballot_id": "79.01"
+    },
+    {
+        "precinct": "79",
+        "precinct_split": "79.04",
+        "ballot_id": "79.01"
+    },
+    {
+        "precinct": "80",
+        "precinct_split": "80.01",
+        "ballot_id": "80.01"
+    },
+    {
+        "precinct": "80",
+        "precinct_split": "80.02",
+        "ballot_id": "80.02"
+    },
+    {
+        "precinct": "80",
+        "precinct_split": "80.03",
+        "ballot_id": "80.01"
+    },
+    {
+        "precinct": "54",
+        "precinct_split": "54.01",
+        "ballot_id": "54.01"
+    },
+    {
+        "precinct": "48",
+        "precinct_split": "48.01",
+        "ballot_id": "48.01"
+    },
+    {
+        "precinct": "78",
+        "precinct_split": "78.01",
+        "ballot_id": "78.01"
+    },
+    {
+        "precinct": "78",
+        "precinct_split": "78.02",
+        "ballot_id": "78.01"
+    },
+    {
+        "precinct": "6",
+        "precinct_split": "6.01",
+        "ballot_id": "6.01"
+    },
+    {
+        "precinct": "6",
+        "precinct_split": "6.02",
+        "ballot_id": "6.01"
+    },
+    {
+        "precinct": "71",
+        "precinct_split": "71.01",
+        "ballot_id": "71.01"
+    },
+    {
+        "precinct": "71",
+        "precinct_split": "71.02",
+        "ballot_id": "71.02"
+    },
+    {
+        "precinct": "71",
+        "precinct_split": "71.03",
+        "ballot_id": "71.01"
+    },
+    {
+        "precinct": "71",
+        "precinct_split": "71.04",
+        "ballot_id": "71.02"
+    },
+    {
+        "precinct": "71",
+        "precinct_split": "71.05",
+        "ballot_id": "71.05"
+    },
+    {
+        "precinct": "71",
+        "precinct_split": "71.06",
+        "ballot_id": "71.02"
+    },
+    {
+        "precinct": "63",
+        "precinct_split": "63.02",
+        "ballot_id": "63.01"
+    },
+    {
+        "precinct": "63",
+        "precinct_split": "63.01",
+        "ballot_id": "63.01"
+    },
+    {
+        "precinct": "63",
+        "precinct_split": "63.05",
+        "ballot_id": "63.01"
+    },
+    {
+        "precinct": "63",
+        "precinct_split": "63.06",
+        "ballot_id": "63.01"
+    },
+    {
+        "precinct": "63",
+        "precinct_split": "63.03",
+        "ballot_id": "63.01"
+    },
+    {
+        "precinct": "63",
+        "precinct_split": "63.04",
+        "ballot_id": "63.01"
+    },
+    {
+        "precinct": "58",
+        "precinct_split": "58.01",
+        "ballot_id": "58.01"
+    },
+    {
+        "precinct": "58",
+        "precinct_split": "58.08",
+        "ballot_id": "58.02"
+    },
+    {
+        "precinct": "58",
+        "precinct_split": "58.02",
+        "ballot_id": "58.02"
+    },
+    {
+        "precinct": "58",
+        "precinct_split": "58.05",
+        "ballot_id": "58.02"
+    },
+    {
+        "precinct": "58",
+        "precinct_split": "58.03",
+        "ballot_id": "58.02"
+    },
+    {
+        "precinct": "58",
+        "precinct_split": "58.04",
+        "ballot_id": "58.01"
+    },
+    {
+        "precinct": "58",
+        "precinct_split": "58.06",
+        "ballot_id": "58.02"
+    },
+    {
+        "precinct": "58",
+        "precinct_split": "58.07",
+        "ballot_id": "58.01"
+    },
+    {
+        "precinct": "70",
+        "precinct_split": "70.01",
+        "ballot_id": "70.01"
+    },
+    {
+        "precinct": "70",
+        "precinct_split": "70.02",
+        "ballot_id": "70.01"
+    },
+    {
+        "precinct": "43",
+        "precinct_split": "43.01",
+        "ballot_id": "43.01"
+    },
+    {
+        "precinct": "43",
+        "precinct_split": "43.02",
+        "ballot_id": "43.01"
+    },
+    {
+        "precinct": "61",
+        "precinct_split": "61.01",
+        "ballot_id": "61.01"
+    },
+    {
+        "precinct": "61",
+        "precinct_split": "61.02",
+        "ballot_id": "61.01"
+    },
+    {
+        "precinct": "61",
+        "precinct_split": "61.03",
+        "ballot_id": "61.01"
+    },
+    {
+        "precinct": "75",
+        "precinct_split": "75.01",
+        "ballot_id": "75.01"
+    },
+    {
+        "precinct": "7",
+        "precinct_split": "7.01",
+        "ballot_id": "7.01"
+    },
+    {
+        "precinct": "7",
+        "precinct_split": "7.02",
+        "ballot_id": "7.02"
+    },
+    {
+        "precinct": "59",
+        "precinct_split": "59.02",
+        "ballot_id": "59.01"
+    },
+    {
+        "precinct": "59",
+        "precinct_split": "59.01",
+        "ballot_id": "59.01"
+    },
+    {
+        "precinct": "53",
+        "precinct_split": "53.01",
+        "ballot_id": "53.01"
+    },
+    {
+        "precinct": "60",
+        "precinct_split": "60.01",
+        "ballot_id": "60.01"
+    },
+    {
+        "precinct": "60",
+        "precinct_split": "60.02",
+        "ballot_id": "60.01"
+    },
+    {
+        "precinct": "57",
+        "precinct_split": "57.01",
+        "ballot_id": "57.01"
+    },
+    {
+        "precinct": "57",
+        "precinct_split": "57.02",
+        "ballot_id": "57.01"
+    },
+    {
+        "precinct": "56",
+        "precinct_split": "56.01",
+        "ballot_id": "56.01"
+    },
+    {
+        "precinct": "56",
+        "precinct_split": "56.02",
+        "ballot_id": "56.01"
+    },
+    {
+        "precinct": "19",
+        "precinct_split": "19.01",
+        "ballot_id": "19.01"
+    },
+    {
+        "precinct": "19",
+        "precinct_split": "19.03",
+        "ballot_id": "19.03"
+    },
+    {
+        "precinct": "19",
+        "precinct_split": "19.02",
+        "ballot_id": "19.01"
+    },
+    {
+        "precinct": "19",
+        "precinct_split": "19.04",
+        "ballot_id": "19.04"
+    },
+    {
+        "precinct": "19",
+        "precinct_split": "19.05",
+        "ballot_id": "19.05"
+    },
+    {
+        "precinct": "11",
+        "precinct_split": "11.01",
+        "ballot_id": "11.01"
+    },
+    {
+        "precinct": "10",
+        "precinct_split": "10.01",
+        "ballot_id": "10.01"
+    },
+    {
+        "precinct": "10",
+        "precinct_split": "10.02",
+        "ballot_id": "10.01"
+    },
+    {
+        "precinct": "10",
+        "precinct_split": "10.03",
+        "ballot_id": "10.03"
+    },
+    {
+        "precinct": "10",
+        "precinct_split": "10.04",
+        "ballot_id": "10.04"
+    },
+    {
+        "precinct": "76",
+        "precinct_split": "76.01",
+        "ballot_id": "76.01"
+    },
+    {
+        "precinct": "76",
+        "precinct_split": "76.02",
+        "ballot_id": "76.02"
+    },
+    {
+        "precinct": "76",
+        "precinct_split": "76.03",
+        "ballot_id": "76.01"
+    },
+    {
+        "precinct": "68",
+        "precinct_split": "68.01",
+        "ballot_id": "68.01"
+    },
+    {
+        "precinct": "36",
+        "precinct_split": "36.01",
+        "ballot_id": "36.01"
+    },
+    {
+        "precinct": "36",
+        "precinct_split": "36.02",
+        "ballot_id": "36.02"
+    },
+    {
+        "precinct": "36",
+        "precinct_split": "36.03",
+        "ballot_id": "36.02"
+    },
+    {
+        "precinct": "73",
+        "precinct_split": "73.01",
+        "ballot_id": "73.01"
+    },
+    {
+        "precinct": "73",
+        "precinct_split": "73.02",
+        "ballot_id": "73.02"
+    },
+    {
+        "precinct": "73",
+        "precinct_split": "73.03",
+        "ballot_id": "73.02"
+    },
+    {
+        "precinct": "81",
+        "precinct_split": "81.01",
+        "ballot_id": "81.01"
+    },
+    {
+        "precinct": "81",
+        "precinct_split": "81.02",
+        "ballot_id": "81.02"
+    },
+    {
+        "precinct": "81",
+        "precinct_split": "81.03",
+        "ballot_id": "81.03"
+    },
+    {
+        "precinct": "81",
+        "precinct_split": "81.04",
+        "ballot_id": "81.02"
+    },
+    {
+        "precinct": "17",
+        "precinct_split": "17.01",
+        "ballot_id": "17.01"
+    },
+    {
+        "precinct": "17",
+        "precinct_split": "17.02",
+        "ballot_id": "17.02"
+    },
+    {
+        "precinct": "33",
+        "precinct_split": "33.01",
+        "ballot_id": "33.01"
+    },
+    {
+        "precinct": "33",
+        "precinct_split": "33.02",
+        "ballot_id": "33.01"
+    },
+    {
+        "precinct": "55",
+        "precinct_split": "55.03",
+        "ballot_id": "55.01"
+    },
+    {
+        "precinct": "55",
+        "precinct_split": "55.01",
+        "ballot_id": "55.01"
+    },
+    {
+        "precinct": "55",
+        "precinct_split": "55.02",
+        "ballot_id": "55.01"
+    },
+    {
+        "precinct": "77",
+        "precinct_split": "77.01",
+        "ballot_id": "77.01"
+    },
+    {
+        "precinct": "77",
+        "precinct_split": "77.02",
+        "ballot_id": "77.01"
+    },
+    {
+        "precinct": "62",
+        "precinct_split": "62.01",
+        "ballot_id": "62.01"
+    },
+    {
+        "precinct": "62",
+        "precinct_split": "62.02",
+        "ballot_id": "62.02"
+    },
+    {
+        "precinct": "62",
+        "precinct_split": "62.03",
+        "ballot_id": "62.01"
+    },
+    {
+        "precinct": "14",
+        "precinct_split": "14.01",
+        "ballot_id": "14.01"
+    },
+    {
+        "precinct": "15",
+        "precinct_split": "15.01",
+        "ballot_id": "15.01"
+    },
+    {
+        "precinct": "31",
+        "precinct_split": "31.01",
+        "ballot_id": "31.01"
+    },
+    {
+        "precinct": "30",
+        "precinct_split": "30.01",
+        "ballot_id": "30.01"
+    },
+    {
+        "precinct": "30",
+        "precinct_split": "30.02",
+        "ballot_id": "30.01"
+    },
+    {
+        "precinct": "49",
+        "precinct_split": "49.01",
+        "ballot_id": "49.01"
+    },
+    {
+        "precinct": "47",
+        "precinct_split": "47.01",
+        "ballot_id": "47.01"
+    },
+    {
+        "precinct": "52",
+        "precinct_split": "52.01",
+        "ballot_id": "52.01"
+    },
+    {
+        "precinct": "51",
+        "precinct_split": "51.03",
+        "ballot_id": "51.01"
+    },
+    {
+        "precinct": "51",
+        "precinct_split": "51.01",
+        "ballot_id": "51.01"
+    },
+    {
+        "precinct": "51",
+        "precinct_split": "51.02",
+        "ballot_id": "51.01"
+    },
+    {
+        "precinct": "74",
+        "precinct_split": "74.03",
+        "ballot_id": "74.01"
+    },
+    {
+        "precinct": "74",
+        "precinct_split": "74.01",
+        "ballot_id": "74.01"
+    },
+    {
+        "precinct": "74",
+        "precinct_split": "74.02",
+        "ballot_id": "74.01"
+    },
+    {
+        "precinct": "50",
+        "precinct_split": "50.01",
+        "ballot_id": "50.01"
+    },
+    {
+        "precinct": "32",
+        "precinct_split": "32.01",
+        "ballot_id": "32.01"
+    },
+    {
+        "precinct": "13",
+        "precinct_split": "13.01",
+        "ballot_id": "13.01"
+    },
+    {
+        "precinct": "13",
+        "precinct_split": "13.07",
+        "ballot_id": "13.02"
+    },
+    {
+        "precinct": "13",
+        "precinct_split": "13.08",
+        "ballot_id": "13.06"
+    },
+    {
+        "precinct": "13",
+        "precinct_split": "13.04",
+        "ballot_id": "13.01"
+    },
+    {
+        "precinct": "13",
+        "precinct_split": "13.02",
+        "ballot_id": "13.02"
+    },
+    {
+        "precinct": "13",
+        "precinct_split": "13.03",
+        "ballot_id": "13.03"
+    },
+    {
+        "precinct": "13",
+        "precinct_split": "13.05",
+        "ballot_id": "13.05"
+    },
+    {
+        "precinct": "13",
+        "precinct_split": "13.06",
+        "ballot_id": "13.06"
+    },
+    {
+        "precinct": "64",
+        "precinct_split": "64.05",
+        "ballot_id": "64.02"
+    },
+    {
+        "precinct": "64",
+        "precinct_split": "64.05",
+        "ballot_id": "64.02"
+    },
+    {
+        "precinct": "64",
+        "precinct_split": "64.05",
+        "ballot_id": "64.02"
+    },
+    {
+        "precinct": "64",
+        "precinct_split": "64.02",
+        "ballot_id": "64.02"
+    },
+    {
+        "precinct": "26",
+        "precinct_split": "26.07",
+        "ballot_id": "26.07"
+    },
+    {
+        "precinct": "26",
+        "precinct_split": "26.07",
+        "ballot_id": "26.07"
+    },
+    {
+        "precinct": "78",
+        "precinct_split": "78.01",
+        "ballot_id": "78.01"
+    },
+    {
+        "precinct": "79",
+        "precinct_split": "79.04",
+        "ballot_id": "79.01"
+    },
+    {
+        "precinct": "79",
+        "precinct_split": "79.01",
+        "ballot_id": "79.01"
+    },
+    {
+        "precinct": "79",
+        "precinct_split": "79.04",
+        "ballot_id": "79.01"
+    },
+    {
+        "precinct": "75",
+        "precinct_split": "75.01",
+        "ballot_id": "75.01"
+    },
+    {
+        "precinct": "64",
+        "precinct_split": "64.05",
+        "ballot_id": "64.02"
+    },
+    {
+        "precinct": "64",
+        "precinct_split": "64.05",
+        "ballot_id": "64.02"
+    },
+    {
+        "precinct": "64",
+        "precinct_split": "64.05",
+        "ballot_id": "64.02"
+    },
+    {
+        "precinct": "26",
+        "precinct_split": "26.07",
+        "ballot_id": "26.07"
+    },
+    {
+        "precinct": "26",
+        "precinct_split": "26.07",
+        "ballot_id": "26.07"
+    },
+    {
+        "precinct": "64",
+        "precinct_split": "64.05",
+        "ballot_id": "64.02"
+    },
+    {
+        "precinct": "26",
+        "precinct_split": "26.07",
+        "ballot_id": "26.07"
+    }
+]
