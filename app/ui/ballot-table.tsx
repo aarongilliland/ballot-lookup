@@ -9,7 +9,9 @@ export default async function BallotsTable({
   query: string;
 }) {
   const ballots = await fetchBallots(query);
-
+  const getMapLink = (address:string) => {
+    return `https://www.google.com/maps/search/?api=1&query=${address}`
+  }
   return (
     <div className="mt-6 flow-root">
       <div className="inline-block min-w-full align-middle">
@@ -22,6 +24,21 @@ export default async function BallotsTable({
                 </th>
                 <th scope="col" className="px-3 py-5 font-medium">
                   Sample Ballot
+                </th>
+                <th scope="col" className="px-3 py-5 font-medium">
+                  Polling Center
+                </th>
+                <th scope="col" className="px-3 py-5 font-medium">
+                  <div className="flex flex-row">
+                    <Image src="/Google_Maps_icon_(2020).svg"
+                        alt="Maps"
+                        height={10}
+                        width={10}
+                      />
+                  <div>
+                  {' '}Polling Location
+                  </div>  
+                  </div>
                 </th>
               </tr>
             </thead>
@@ -36,6 +53,13 @@ export default async function BallotsTable({
                   </td>
                   <td className="whitespace-nowrap px-3 py-3">
                     <Link href={`https://sarpygop.com/resource-center/${ballot.ballotid}`} >Sample Ballot Click Here</Link>
+                  </td>
+                  <td className="whitespace-nowrap px-3 py-3">
+                    {ballot.polling_place_text_name}
+                  </td>
+                  <td className="whitespace-nowrap px-3 py-3">
+
+                    <Link href={getMapLink(ballot.precinct_address)} target="_blank">{ballot.precinct_address}</Link>
                   </td>
                 </tr>
               ))}

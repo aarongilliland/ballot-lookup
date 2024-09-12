@@ -20,9 +20,7 @@ export async function fetchBallots(
         *
       FROM vw_ballotids_households
       WHERE
-        household_address ILIKE ${`%${query}%`} OR
-        polling_place_text_name ILIKE ${`%${query}%`} OR
-        ballotid ILIKE ${`%${query}%`}
+        household_address ILIKE ${`%${query}%`}
       ORDER BY household_address ASC
       LIMIT ${ITEMS_PER_PAGE}
     `;

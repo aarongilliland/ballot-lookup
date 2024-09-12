@@ -21,10 +21,10 @@ SELECT
 	  h.polling_place_text_name,
   CONCAT_WS(' ',
   	-- trim(regexp_replace(col_name, '\s+', ' ', 'g'))
-	  trim(regexp_replace(h.polling_place_text_address1, '\s+', ' ', 'g'),''),
-	  trim(regexp_replace(h.polling_place_text_address2, '\s+', ' ', 'g'),''),
-	  trim(regexp_replace(h.polling_place_text_address3, '\s+', ' ', 'g'),''),
-	  trim(regexp_replace(h.polling_place_text_address4, '\s+', ' ', 'g'),''),
+	  NULLIF(trim(regexp_replace(h.polling_place_text_address1, '\s+', ' ', 'g'),''),''),
+	  NULLIF(trim(regexp_replace(h.polling_place_text_address2, '\s+', ' ', 'g'),''),''),
+	  NULLIF(trim(regexp_replace(h.polling_place_text_address3, '\s+', ' ', 'g'),''),''),
+	  NULLIF(trim(regexp_replace(h.polling_place_text_address4, '\s+', ' ', 'g'),''),''),
 	  NULLIF(h.polling_place_text_city,''),
 	  NULLIF(h.polling_place_cde_state,''),
 	  NULLIF(h.polling_place_text_zip5,'')
