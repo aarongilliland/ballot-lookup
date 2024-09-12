@@ -3,7 +3,7 @@ import { db } from '@vercel/postgres';
 
 const client = await db.connect();
 
-export async function load() {
+async function load() {
   await client.sql`
     CREATE TABLE IF NOT EXISTS ballotids (
       id SERIAL PRIMARY KEY,
@@ -34,8 +34,7 @@ export async function load() {
 
 }
 
-  
-export async function clear() {
+async function clear() {
   await client.sql`
     DELETE FROM ballotids
     `
@@ -44,7 +43,7 @@ export async function clear() {
 
 }
 
-export async function drop() {
+async function drop() {
   await client.sql`
     DROP TABLE ballotids CASCADE
     `
