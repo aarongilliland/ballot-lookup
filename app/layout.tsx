@@ -1,5 +1,5 @@
 import '@/app/ui/global.css';
-import { inter,belleza } from '@/app/ui/fonts';
+import { belleza } from '@/app/ui/fonts';
  
 export default function RootLayout({
   children,
